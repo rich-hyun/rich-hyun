@@ -32,7 +32,7 @@
 
 <div align="center" style="text-align:center">
   
-  https://blog.naver.com/passiontom
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rich-hyun)](https://blog.naver.com/passiontom)
   
 </div>
   
@@ -49,3 +49,6 @@
 </div>
   
 <br>
+
+[![Sia's github stats](https://github-readme-stats.vercel.app/api?username=rich-hyun)](https://github.com/Jnuary)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rich-hyuny&layout=compact)](https://github.com/Jnuary/github-readme-stats) -->
