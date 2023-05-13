@@ -26,29 +26,11 @@
   
 <br>
 
-<br>
-
-<h3 align="center">🪄 Naver Blog 🪄</h3>
-
-<div align="center" style="text-align:center">
-  
-  https://blog.naver.com/passiontom
-  
-</div>
-  
-<br>
-
-<br>
-
-<h3 align="center">🪄 BAEK JOON 🪄</h3>
-
-<div align="center" style="text-align:center">
-  
-  https://www.acmicpc.net/user/passiontom
-  
-</div>
-  
-<br>
+<p align="center">
+  <a href="https://blog.naver.com/passiontom/"><img src="https://img.shields.io/badge/Naver_blog-FF5722?style#=for-the-badge&logo=Naver_blog&logoColor=white">&nbsp
+  <a href="passiontom@naver.com"><img src="https://img.shields.io/badge/-Naver-critical">
+  <a href="https://www.acmicpc.net/user/passiontom/"><img src="https://img.shields.io/badge/BAEK JOON-FFB3C7?style#=for-the-badge&logo=BAEK JOON&logoColor=white">&nbsp
+</p>
 
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=rich-hyun)](https://github.com/Jnuary)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rich-hyuny&layout=compact)](https://github.com/Jnuary/github-readme-stats) -->
