@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="center"> MY PHONE Nb</h3>
+<h3 align="center"> MY PHONE NB</h3>
 
 <div align="center" style="text-align:center">
   
@@ -44,7 +44,7 @@
   
 </div>
 
-<h3 align="center"> MY NAVER</h3>
+<h3 align="center"> MY HISTORY</h3>
 
 <p align="center">
   <a href="https://blog.naver.com/passiontom/"><img src="https://img.shields.io/badge/Naver_blog-FF5722?style#=for-the-badge&logo=Naver_blog&logoColor=white">&nbsp
