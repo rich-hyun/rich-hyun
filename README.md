@@ -16,6 +16,18 @@
 
 <br>
 
+<h3 align="center"> My Phone Nb</h3>
+
+<div align="center" style="text-align:center">
+  
+   82-10-7137-0821
+  
+</div>
+  
+<br>
+
+<br>
+
 <h3 align="center">🪄 Naver Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
