@@ -20,25 +20,29 @@
 
 <br>
 
-<h3 align="center"> My Phone Nb</h3>
+<h3 align="center"> MY PHONE Nb</h3>
 
 <div align="center" style="text-align:center">
   
    82-10-7137-0821
   
 </div>
-  
-<br>
 
 <h3 align="center"> BAEK JOON </h3>
 
 <div align="center" style="text-align:center">
   
-   https://www.acmicpc.net/user/passiontom
+   BOJ ID: passiontom
   
 </div>
   
-<br>
+<h3 align="center"> NAVER MAIL </h3>
+
+<div align="center" style="text-align:center">
+  
+   passiontom@naver.com
+  
+</div>
 
 <h3 align="center"> MY NAVER</h3>
 
