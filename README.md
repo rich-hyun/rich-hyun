@@ -16,14 +16,24 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">🪄 Naver Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://blog.naver.com/passiontom)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://blog.naver.com/passiontom)
+  https://blog.naver.com/passiontom
   
 </div>
   
 <br>
 
+<br>
+
+<h3 align="center">🪄 BAEK JOON 🪄</h3>
+
+<div align="center" style="text-align:center">
+  
+  https://www.acmicpc.net/user/passiontom
+  
+</div>
+  
+<br>
