@@ -32,7 +32,7 @@
 
 <div align="center" style="text-align:center">
   
-   BOJ ID: passiontom
+   BOJ: [passiontom](https://www.acmicpc.net/user/passiontom)
   
 </div>
   
