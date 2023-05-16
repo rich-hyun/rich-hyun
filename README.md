@@ -48,6 +48,6 @@
 
 <p align="center">
   <a href="https://blog.naver.com/passiontom/"><img src="https://img.shields.io/badge/Naver_blog-FF5722?style#=for-the-badge&logo=Naver_blog&logoColor=white">&nbsp
-  <a href="https://www.acmicpc.net/user/passiontom/"><img src="https://img.shields.io/badge/BAEKJOON-FF5722?style#=for-the-badge&logo=BAEKJOONg&logoColor=white">&nbsp
+  <a href="https://www.acmicpc.net/user/passiontom"><img src="https://img.shields.io/badge/BAEKJOON-FF5722?style#=for-the-badge&logo=BAEKJOONg&logoColor=white">&nbsp
 </p>
 
