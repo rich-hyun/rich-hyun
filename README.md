@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=#150458&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=#013243&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=150458&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=#13243&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=#276DC3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=#4479A1&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=276DC3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=4479A1&logoColor=white"/></a>&nbsp
   
 </p>
 
