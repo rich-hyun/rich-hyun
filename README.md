@@ -25,6 +25,14 @@
 
 <br>
 
+<h3 align="center"> MY Portfolio</h3>
+
+<div align="center" style="text-align:center">
+  
+   [Jaehyun kim](https://www.notion.so/JAEHYUN-KIM-7beec3b57a864c689628f29159a655e7)
+  
+</div>
+
 <h3 align="center"> MY PHONE NB</h3>
 
 <div align="center" style="text-align:center">
